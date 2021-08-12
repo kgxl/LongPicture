@@ -1,0 +1,2 @@
+rootProject.name = "LongPicture"
+include ':app'
